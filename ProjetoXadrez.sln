@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoXadrez", "ProjetoXadrez\ProjetoXadrez.csproj", "{7332FB65-7C33-452C-9878-A3B48F0C6EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7332FB65-7C33-452C-9878-A3B48F0C6EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7332FB65-7C33-452C-9878-A3B48F0C6EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7332FB65-7C33-452C-9878-A3B48F0C6EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7332FB65-7C33-452C-9878-A3B48F0C6EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
